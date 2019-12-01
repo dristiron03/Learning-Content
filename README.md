@@ -36,7 +36,7 @@ This repository contains the resources that are discussed during the weekly meet
   
  ## Members
 
-- [Name](Github Url)
+- [Dristiron Saikia](https://github.com/dristiron03)
 
 # Phase 2 - 2019
 
